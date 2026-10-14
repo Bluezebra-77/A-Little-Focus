@@ -1,4 +1,4 @@
-# A Little Focus · v1.5
+# A Little Focus · v1.6
 
 *One theme. Six ideas. Your pace.*
 
@@ -49,3 +49,12 @@ Automated checks cover cadence boundaries, month-end/leap dates, fixed/reproduci
 
 
 This release updates the app heading, tagline, browser title, Home Screen name and backup filenames. Saved progress, photos and previous backups remain compatible.
+
+
+## Update the existing repository to v1.6
+
+Export a full backup from the app first if you have added test photos. Unzip this package, open your a-little-focus repository, choose Add file → Upload files, and upload ALL the extracted files to the existing repository root. Commit changes. GitHub Pages redeploys automatically. Refresh the live site and check Version 1.6 at the bottom.
+
+The chosen smiling blue zebra (option 5) is used in the app header, browser tab, Apple Home Screen icon and Android installation icons. Separate Android maskable artwork includes safe margins. The previous icon files can remain unused in the repository; they do not need deleting. Photos, schedule, progress and backup compatibility are retained.
+
+iOS may keep an already installed Home Screen icon until it refreshes. Do not clear browser data to update an icon. If reinstalling later, keep a full exported backup first, then verify the photo collection after restoration.
